@@ -3,6 +3,22 @@ Hi 👋 My name is Dawid!
   <h3>Full Stack Developer</h3>
 </div>
 
+<h2 align="center">My Skills 🧠</h2>
+
+<p>Front-end:</p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,,react,redux)](https://skillicons.dev)
+
+<p>Back-end:</p>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+
+<p>Development Tools:</p>
+
+[![My Skills](https://skillicons.dev/icons?i=git,figma,webpack)](https://skillicons.dev)
+
+<div align="center">
+
 <!--
 **ambas90/ambas90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
