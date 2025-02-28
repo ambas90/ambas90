@@ -1,4 +1,6 @@
+<div  align="center"> 
 Hi 👋 My name is Dawid!
+</div>
 
 <!--
 **ambas90/ambas90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
