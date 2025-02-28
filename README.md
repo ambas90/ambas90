@@ -21,9 +21,6 @@ Hi 👋 My name is Dawid!
 
 [![My Skills](https://skillicons.dev/icons?i=ae,au,ps)](https://skillicons.dev)
 
-<h3 align="center">How to reach me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-jasinski-fullstackdeveloper/)  
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ambas90@gmail.com)
 <!--
 **ambas90/ambas90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
