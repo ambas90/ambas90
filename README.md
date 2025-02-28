@@ -1,5 +1,6 @@
 <div  align="center"> 
 Hi 👋 My name is Dawid!
+  <h3>Front-end Developer 👩‍💻👽</h3>
 </div>
 
 <!--
